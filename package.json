@@ -1,0 +1,15 @@
+{
+  "name": "bitmoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jay Wilson Jr. <jay@jaywilsonjr.com> (http://jaywilsonjr.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "libmoji": "^1.0.0"
+  }
+}
